@@ -1,7 +1,7 @@
 What inspired this repository was, while reading the book Programming: Principles and Practice Using C++ by the creator of C++ himself, Bjarne Stroustrup, I found that it was kind of boring to copy the code blocks given by the author manually into my PC. And even when opening it on a PDF and copying straight from the PDF,
 I found that there were a lot of mistakes and a lot of punctuation missing and a lot of letters that are changed, basically giving your code 10+ problems, leading to just you deleting it and writing it from the start.
 
-So I decided to create this repository to help everyone who faces the same problem as me. Keep in mind that this is based on the third edition of the book so if you are reading the first or second edition things may differ slightly.
+So I decided to create this repository to help everyone who faces the same problem as me. Keep in mind that this is based on the third edition of the book so if you are reading the first or second edition things may differ.
 
 there are changes between the editions so things will differ but what i am 100% sure of is that this repository will help you no matter what edition you are reading.
 
